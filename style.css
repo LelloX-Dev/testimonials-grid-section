@@ -116,7 +116,7 @@ main {
   padding: 2rem;
   font-size: 0.8125rem;
   border-radius: 0.5rem;
-  box-shadow: 3rem 4rem 2.5rem var(--grey-400-25);
+  box-shadow: 4rem 4rem 2.5rem var(--grey-400-25);
 }
 
 .card h1 {
@@ -127,7 +127,7 @@ main {
 
 .card p:last-of-type {
   line-height: 1.4;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 /* Card 1 */
@@ -153,11 +153,6 @@ main {
 .card:nth-of-type(4) {
   background-color: var(--dark-blue);
   color: var(--grey-200);
-}
-
-.card:nth-of-type(4) h1,
-.card:nth-of-type(4) p {
-  opacity: 0.9;
 }
 
 .user {
