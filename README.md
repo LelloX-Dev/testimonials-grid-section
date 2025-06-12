@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Repo](https://github.com/LelloX-Dev/testimonials-grid-section)
+- Live Site URL: [Live site here](https://lellox-dev.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -65,9 +65,8 @@ I'd like to continue practicing complex grid layouts and accessibility best prac
 
 ## Author
 
-- Website - [Your Name](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@LelloX-Dev](https://www.frontendmentor.io/profile/LelloX-Dev)
+- Github - [@LelloX-Dev](https://github.com/LelloX-Dev)
 
 ## Acknowledgments
 
